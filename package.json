@@ -1,0 +1,30 @@
+{
+  "name": "ljs",
+  "version": "1.0.0",
+  "description": "LearnJavascript",
+  "main": "main.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnSKo74/ljs.git"
+  },
+  "keywords": [
+    "new",
+    "beginner",
+    "javascript"
+  ],
+  "author": "best",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnSKo74/ljs/issues"
+  },
+  "homepage": "https://github.com/gnSKo74/ljs#readme"
+}
